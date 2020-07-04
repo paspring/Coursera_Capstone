@@ -1,2 +1,5 @@
 # Coursera_Capstone
 Capstone Project 
+
+Without doubt choosing the right location for a new business is one of the most crucial steps in the life of a project. Determine which factor must be taken in consideration is core to solve this problem. Our case of study is centered in one of the business with the highest rate of failures within a year of operation, the small and mid-restaurants, this enterprise have percentages of failure of around the 26% within a year. Therefore, for restaurants owners and entrepreneurs is decisive to identify how different variables are related with the success or failure of his business.
+The goal of this work is to develop a machine learning model with the objective of predict and describe how the right location influence the success or failure of a restaurant. Specifically, we are going to analyze the restaurants distribution around the neighborhoods of New York City using foursquare, google and opencity data. The target audience for this study will be restaurants owners, entrepreneurs and researchers.
